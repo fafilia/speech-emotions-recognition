@@ -1,0 +1,5 @@
+name: Tensorflow-GPU
+channels:
+  - defaults
+prefix: C:\Users\fafiliam\.conda\envs\Tensorflow-GPU
+
